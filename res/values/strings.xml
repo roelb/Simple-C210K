@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple C210K</string>
+    <string name="ok_icon">ok_icon</string>
+    <string name="about">Credits:\n\nDeveloper: Roel Blaauwgeers\nB210K hack: Peter Bindels</string>
+    <!-- Exercise instructions -->
+    <string name="w1">Brisk five-minute warmup walk. Then do four repetitions of the following:\n- Jog 10 minutes\n- Walk 60 seconds</string>
+    <string name="w2">Brisk five-minute warmup walk. Then do three repetitions of the following:\n- Jog 15 minutes\n- Walk 60 seconds</string>
+    <string name="w3">Brisk five-minute warmup walk. Then do three repetitions of the following:\n- Jog 17 minutes\n- Walk 60 seconds</string>
+    <string name="w4">Brisk five-minute warmup walk. Then do three repetitions of the following:\n- Jog 18 minutes\n- Walk 60 seconds</string>
+    <string name="w5d1">Brisk five-minute warmup walk, then:\n- Jog 22 minutes\n- Walk 1 minute\n- Jog 22 minutes</string>
+    <string name="w5d2">Brisk five-minute warmup walk, then:\n- Jog 25 minutes\n- Walk 1 minute\n- Jog 25 minutes</string>
+    <string name="w5d3">Brisk five-minute warmup walk, then:\n- Jog 30 minutes\n- Walk 1 minute\n- Jog 30 minutes</string>
+    <string name="w6">Brisk five-minute warmup walk, then jog 60 minutes.</string>
+</resources>
